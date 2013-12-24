@@ -1,0 +1,12 @@
+[submodule "hmt-rostock"]
+	path = hmt-rostock
+	url = https://github.com/ssr-scenes/hmt-rostock.git
+[submodule "tu-berlin"]
+	path = tu-berlin
+	url = https://github.com/ssr-scenes/tu-berlin.git
+[submodule "ssr-example-scenes"]
+	path = ssr-example-scenes
+	url = https://github.com/SoundScapeRenderer/example-scenes.git
+[submodule "fh-koeln"]
+	path = fh-koeln
+	url = https://github.com/ssr-scenes/fh-koeln.git
