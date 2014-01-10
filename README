@@ -3,3 +3,6 @@ This is a parent repository which contains all scenes as submodules.
 However, it may not be up to date ...
 
 Have a look at the originals there: https://github.com/ssr-scenes
+
+If you're curious, this is how to get the newest version of all submodules:
+git submodule foreach git pull origin master
