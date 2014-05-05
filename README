@@ -6,3 +6,6 @@ Have a look at the originals there: https://github.com/ssr-scenes
 
 If you're curious, this is how to get the newest version of all submodules:
 git submodule foreach git pull origin master
+
+If you have SSR scenes which you would like to make available here, feel free to
+contact us: ssr@spatialaudio.net
