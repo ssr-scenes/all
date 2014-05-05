@@ -10,3 +10,6 @@
 [submodule "fh-koeln"]
 	path = fh-koeln
 	url = https://github.com/ssr-scenes/fh-koeln.git
+[submodule "bbcrd"]
+	path = bbcrd
+	url = https://github.com/ssr-scenes/bbcrd
